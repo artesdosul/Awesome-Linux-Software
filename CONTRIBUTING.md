@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # Guidelines to Contribute
 
 ## English
@@ -14,7 +15,7 @@
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
-- [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
+- [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 *Items marked with [![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
@@ -32,7 +33,7 @@
 - [How to Use Github (Inglés)](https://guides.github.com/activities/forking/)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
 - [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es un tipo de código utilizado para crear esta lista, que utiliza un tipo específico llamado: GitHub Markdown.
-- [Alternative Markdown Guide (Inglés)](https://guides.github.com/features/mastering-markdown/)
+- [Alternative Markdown Guide (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 *Artículos marcados [![Open-Source Software][OSS Icon] son software de código abierto y tienen un enlace al código fuente. Artículos marcados [![Nonfree][Money Icon] cuesta dinero (como en cerveza que cuesta dinero).*
 
@@ -56,7 +57,7 @@
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
-- [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
+- [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 *Itens marcados com [![open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.*
 
@@ -67,3 +68,4 @@
 
 
 原作者注：最近我收到了一些关于列表中一些应用软件的质量的反馈。我自己测试了其中的大部分应用（但不是全部）。如果你对应用有任何问题：-> 去往开发页面（如果有的话）-> 给开发提个 issue -> 在这里提个 issue 以便我考虑是否将应用移出列表。记住：所有东西都有它自己的质量，所以这里永远不会有“最佳应用”或“选择性的列表”，谢谢。
+<!-- markdown-link-check-enable -->
